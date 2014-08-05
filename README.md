@@ -18,3 +18,5 @@ Mine is currently sequelize = new Sequelize('sequelize_test', 'root', "")
 
 To start the app, cd into the project directory and run
 $node app.js
+
+The app will be hosted on localhost:3000
